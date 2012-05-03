@@ -7,4 +7,4 @@ alias la='ls -A'
 alias l='ls -CF'
 
 # common program aliases
-alias npp='/c/Program\ Files\ \(x86\)/Notepad++/notepad++.exe'
+alias npp='start "c:\progra~2\notepad++\notepad++.exe"'

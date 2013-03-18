@@ -8,3 +8,5 @@ alias l='ls -CF'
 
 # common program aliases
 alias npp='start "c:\progra~2\notepad++\notepad++.exe"'
+alias sub='start "c:\progra~1\sublim~1\sublime_text.exe"'
+
